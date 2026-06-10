@@ -24,7 +24,7 @@ W funkcji `main` tworzone są dwa obiekty `T_student` – jeden z wartościami d
 ### Uruchomienie
  
 ```bash
-g++ main.cpp -o program
+g++ PO_02_01.cpp -o program
 ./program
 ```
  
@@ -50,7 +50,7 @@ The `main` function creates two `T_student` objects — one with default values 
 ### How to run
  
 ```bash
-g++ main.cpp -o program
+g++ PO_02_01.cpp -o program
 ./program
 ```
  
